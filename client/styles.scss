@@ -1,0 +1,83 @@
+@import 'o-colors/main';
+@import 'components/core/main';
+@import 'o-grid/main';
+
+.graphicWidth
+	{
+	max-width: 760px;
+	padding: 0 0.75em;
+	}
+
+.mainMapWidth
+	{
+	max-width: 1600px;
+	}
+
+.o-typography-caption
+	{
+		margin-bottom: 0px;
+	}
+
+.picWidth
+	{
+	max-width: 760px;
+	}
+
+#ig-map-map1220 {
+	margin: 10px auto 10px auto;
+	padding-left: 0px
+}
+
+#ig-map-map980 {
+	margin: 10px auto 10px auto;
+}
+
+#ig-map-map560 {
+	margin: 10px auto 10px auto;
+}
+
+#ig-map-map295 {
+	margin: 10px auto 10px auto;
+}
+
+
+ //......Charts....../   
+
+#emissionsChart{
+    width: 100%;
+    height: auto;
+}
+
+
+#byTypeMoble560{
+    width: 100%;
+    height: auto;
+}
+
+#TFL_295{
+    width: 100%;
+    height: auto;
+}
+
+#byTypeMoble295{
+    width: 100%;
+    height: auto;
+}
+
+
+//......Pollution images....../
+
+img.small-multiple {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+	font-family:MetricWeb,arial,sans-serif;
+	font-size:20px;
+	line-height:17px;
+	font-weight:400;
+	color:#6b6e68;
+    padding: 15px;
+    text-align: center;
+}
